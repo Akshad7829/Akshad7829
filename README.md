@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshad Swaroop Nayakwadi</h1>
-<h3 align="center">A passionate frontend Web-Developer.</h3>
+<h3 align="center">C++ || DSA || DBMS || Java || Web Developer</h3>
 
 - 🔭 My Completed Projects are **- ProjectBook , Picture-Perfect ,Text-Mate**
 
