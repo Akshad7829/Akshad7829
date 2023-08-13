@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Akshad Swaroop Nayakwadi</h1>
 <h3 align="center">C++ || DSA || DBMS || Java || Web Developer</h3>
 
-- 🔭 My Completed Projects are **- ProjectBook , Picture-Perfect ,Text-Mate**
+- 🔭 My Completed Projects are **- Library Management System , ProjectBook , Picture-Perfect ,Text-Mate**
 
 - 👨‍💻 All of my projects are available at [https://www.akshadsnayakwadi.tech/](https://www.akshadsnayakwadi.tech/)
 
-- 💬 Ask me about **HTML5 , CSS3 , Reactjs , C++**
+- 💬 Ask me about **HTML5 , CSS3 , Reactjs , C++ , Java**
 
 - 📫 How to reach me **akshadsn03@gmail.com**
 
