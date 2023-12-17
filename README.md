@@ -3,7 +3,7 @@
 
 - 🔭 My Completed Projects are **- Library Management System , ProjectBook , Picture-Perfect ,Text-Mate**
 
-- 👨‍💻 All of my projects are available at [https://www.akshadsnayakwadi.tech/](https://www.akshadsnayakwadi.tech/)
+- 👨‍💻 All of my projects are available at [https://www.akshadnayakwadi.tech/](https://www.akshadnayakwadi.tech/)
 
 - 💬 Ask me about **HTML5 , CSS3 , Reactjs , C++ , Java**
 
